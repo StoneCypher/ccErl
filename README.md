@@ -1,7 +1,7 @@
 ccErl
 =====
 
-Credit card recognition and validation algorithms (prefix, csc, cvv, cvc, luhn, etc) for Erlang
+Credit card recognition and validation algorithms (prefix, csc, cvv, cvc, luhn, etc) for Erlang.  Alows you to validate cards, parse bank ids, check routing numbers, and more.
 
 
 
