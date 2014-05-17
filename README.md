@@ -5,8 +5,8 @@ Credit card recognition and validation algorithms (prefix, csc, cvv, cvc, luhn, 
 
 
 
-Status
-------
+Status - *Not Usable*
+--------------------
 
 This is a new library and is not considered to be usable yet, let alone production ready.
 
